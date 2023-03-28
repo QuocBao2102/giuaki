@@ -1,0 +1,159 @@
+* {
+    font-family: 'sarabun', sans-serif;
+}
+
+.wrapper {
+    width: 1440px;
+    height: 2860px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-center a {
+    padding: 0 10px;
+    text-decoration: none;
+    color: rgb(74, 75, 77);
+    font-size: 13px;
+}
+
+.content {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.banner {
+    text-align: center;
+    font-size: 35px;
+    line-height: 10px;
+    padding-right: 30px;
+}
+
+.banner-text {
+    text-align: center;
+    width: 60%;
+    padding-left: 244px;
+}
+
+.banner-image {
+    text-align: center;
+}
+
+.banner-image img {
+    width: 101%;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom ul {
+    list-style-type: none;
+    line-height: 25px;
+}
+
+.bottom h1 {
+    font-size: 20px;
+}
+
+.sub-input {
+    display: flex;
+}
+
+.sub-text {
+    line-height: 10px;
+    padding-bottom: 30px;
+}
+
+.sub-text h2 {
+    color: rgb(20, 146, 104);
+}
+
+.sub-text a {
+    color: rgb(83, 87, 92)
+}
+
+.mxh {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mxh .brand {
+    display: flex;
+    align-items: center;
+    padding-left: 45px;
+}
+
+.mxh-icon img {
+    padding: 0 10px;
+}
+
+.mid-container {
+    display: flex;
+    align-items: center;
+    padding-top: 180px;
+}
+
+.mid-container .mid-left {
+    padding-right: 300px;
+}
+
+.mid-button {
+    padding-top: 20px;
+}
+
+.mid-container1 {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.mid-container1 .mid-left1 {
+    padding-left: 300px;
+}
+
+.mid-button1 {
+    padding-top: 20px;
+}
+
+.mid-container2 {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.mid-container2 .mid-left2 {
+    padding-right: 300px;
+}
+
+.mid-button2 {
+    padding-top: 20px;
+}
+
+.get {
+    display: flex;
+    padding-top: 195px;
+    padding-bottom: 180px;
+}
+
+.get .get-text {
+    padding-left: 100px;
+    padding-top: 80px;
+    padding-right: 100px;
+    line-height: 20px;
+    background-color: rgb(20, 146, 104);
+}
+
+.get-button {
+    padding-top: 20px;
+}
+
+.get-text h2 {
+    font-size: 50px;
+    color: white;
+}
